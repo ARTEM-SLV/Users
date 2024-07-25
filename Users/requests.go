@@ -1,4 +1,4 @@
-package request
+package Users
 
 import "github.com/ARTEM-SLV/Users/internal/service"
 
